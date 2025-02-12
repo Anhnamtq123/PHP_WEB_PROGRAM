@@ -36,6 +36,7 @@ Dự án **PHP_WEB_PROGRAM** là một hệ thống quản lý bán hàng đư�
 
 ## Sản phẩm đang trong quá trình hoàn thiện
 Một số chức năng có thể chưa sử dụng được
+![image](https://github.com/user-attachments/assets/ca4e7103-e0c1-4eb5-aa12-1b3bc1c07c76)
 
 
 
